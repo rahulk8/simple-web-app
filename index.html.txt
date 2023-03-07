@@ -1,0 +1,6 @@
+<html>
+<title>Simple Web App </title>
+<h1> simple web app </h1>
+<p> This is simple website </p>
+<p> hi world </p>
+</html>
